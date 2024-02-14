@@ -1,0 +1,49 @@
+                                                                 PET'S WORLD
+
+We are two member in the project going to represent dynamic web app. created in PHP & 
+MYSQL.
+This is the dynamic web app controlled by client as well as admin side.
+            
+Name :Samiksha Balkishor Dasarwad
+              Rutuja Surykant Devkar.
+This project is developed by using -
+1} fronted - Html,Php
+ 2} backend-Mysql d/b sever. [XAMPP]
+
+                                                         STEP FOR PROJECT:
+1]open xampp control panal.
+2]start the apache & mysql module.
+3]open the c drive folder then click on htdoc.
+4]open pet folder there are some coding pages.
+5]open google crome .
+6]write localhost/pet in URL.
+7]here is our Home Page.
+
+Our project is divided into 2 modules :
+1} Admin : admin is the main user that have authority to update ,insert product.
+                    - log details of admin.
+                    - cart details.
+                    - see the order
+                    - delivered the order.
+2}client : customer must register 1st & then login in the web portal.
+                   - registration
+                   - log details of client
+                   - product search
+                   - purchase cart detail
+                   - product as per order
+
+ Admin work- Admin login ->log detain ->username, password.
+                        - product data entry ->product details.
+                        - cart management->cart bill ->cart data.
+                        -report generation ->Queries ->user data ->product data
+ 
+Client role- client login ->log details ->login
+                    - product search ->search data 
+                    - purchase process ->cart detail ->user cart bill
+                    -report generation ->Querie ->user data-> cart data .
+      
+                   
+                     
+
+ 	
+																																																																																																																																																																																																																														

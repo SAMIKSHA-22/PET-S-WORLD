@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <style>
+        #flx
+        {
+            height: 1140px;
+            width: 1190px;
+            border:2px solid pink ;
+            display:flex;
+            flex-direction:row ;
+            flex-wrap: wrap;
+            gap:100px ;
+          /*  align-items: center;*/
+        }
+        .items
+        {
+            height: 0px;
+            width: 300px;
+            background-color: blueviolet;
+            flex-basis:300px ;
+            flex-shrink: 2;
+        }
+        img
+        {
+          height: 300px;
+          width: 300px;
+        }
+        #flx div:nth-last-of-type(2)
+        {
+          flex-grow: 2;
+        }
+    </style>
+  </head>  
+<body>
+    <div id="flx">
+        
+        
+        <div class="items"><img src="images\pet6.jpg"><p><center>PRICE:-<BR>800Rs/-</center></p></div>
+        <div class="items"><img src="images\pet1.jpg"><p><center>PRICE:-<BR>800Rs/-</center></p></div>
+        <div class="items"><img src="images\shower.jpg"><p><center>PRICE:-<BR>800Rs/-</center></p></div>
+        <div class="items"><img src="images\pet3.jpg"><p><center>PRICE:-<BR>800Rs/-</center></p></div>
+        <div class="items"><img src="images\pet4.jpg"><p><center>PRICE:-<BR>800Rs/-</center></p></div>
+        <div class="items"><img src="images\pet21.jpg"><p><center>PRICE:-<BR>800Rs/-</center></p></div>
+        <div class="items"><img src="images\dryer.jpg"><p><center>PRICE:-<BR>800Rs/-</center></p></div>
+        <div class="items"><img src="images\petg.jpg"><p><center>PRICE:-<BR>800Rs/-</center></p></div>
+        <div class="items"><img src="images\petg1.jpg"><p><center>PRICE:-<BR>800Rs/-</center></p></div>
+    </body>
+    </html>
+    
+    
